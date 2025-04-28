@@ -31,6 +31,7 @@ As defined by the National Bureau of Economic Research, the two largest economic
 ## Analysis and Results:
 Question 1 Visualization
 
+<img width="651" alt="Screenshot 2025-04-28 at 18 43 13" src="https://github.com/user-attachments/assets/9250d220-8b8d-4835-ba09-5a69344dc1c1" />
 
 
 Question 2 Visualization 
