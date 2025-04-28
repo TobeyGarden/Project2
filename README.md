@@ -29,8 +29,12 @@ As defined by the National Bureau of Economic Research, the two largest economic
 ## Manipulations To Our Data Set:
 
 ## Analysis and Results:
-Question 1 Analysis
-<img width="1425" alt="Screenshot 2025-04-28 at 18 28 50" src="https://github.com/user-attachments/assets/4162978e-778c-43f4-b314-7ae5772eb417" />
+Question 1 Visualization
 
-<img width="1425" alt="Screenshot 2025-04-28 at 18 28 58" src="https://github.com/user-attachments/assets/1aa146de-975b-4ce5-a80a-5e5116554332" />
+<img width="651" alt="Screenshot 2025-04-28 at 18 41 51" src="https://github.com/user-attachments/assets/08454766-2cda-4f66-bbaf-d92692852fd1" />
+
+
+Question 2 Visualization 
+
+<img width="642" alt="Screenshot 2025-04-28 at 18 24 16" src="https://github.com/user-attachments/assets/ed520bea-5cdd-4f0c-99ca-e75b388ee5b3" />
 
