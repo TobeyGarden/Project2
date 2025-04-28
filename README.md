@@ -11,3 +11,14 @@ Answering pertinent questions on Consumer Price Index with Tableau
 3) Ian Arnold [@ian-uga](https://github.com/TobeyGarden/Project1/edit/main/README.md)
 4) Austin Zeiller [@Austinz7303](https://github.com/TobeyGarden/Project1/edit/main/README.md)
 5) Owen Herring [@Oherring22](https://github.com/TobeyGarden/Project1/edit/main/README.md)
+
+## The Dataset: 
+
+## Our Questions and Their Importance:
+
+Our first question is 
+
+## Manipulations To Our Data Set:
+
+## Analysis and Results
+
