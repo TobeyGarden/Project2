@@ -14,6 +14,10 @@ Answering pertinent questions on Consumer Price Index with Tableau
 
 ## The Dataset: 
 
+The data set we are analyzing is from https://catalog.data.gov/dataset from the US Data gov website. We specifically chose the data set showing the Consumer Price Index for food webetwen 1974 and 2023. We wanted to isolate our focus on the years before and after the COVID-19 pandemic which was a market shock in the economy changing the price of foods in notable ways. 
+
+Our dataset contains 3 fields; the Consumer Price Index for each food item, the year that each Consumer Price Index was record from 1974 - 2023, and the Percent Change between each year. 
+
 ## Our Questions and Their Importance:
 
 Our first question is 
