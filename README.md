@@ -20,7 +20,7 @@ Our dataset contains 3 fields; the Consumer Price Index for each food item, the 
 
 ## Our Questions and Their Importance:
 
-Question 1: How did the Consumer Price Index change for all foods before and after the 2008 US recession compared to the Consumer Price Index before and after the COVID-19 pandemic of 2020?
+Question 1: How did the Consumer Price Index change for all foods before and after the 2007-2009 US recession compared to the Consumer Price Index before and after the COVID-19 pandemic of 2020?
 
 Question 2: In comparison to Consumer Price Index changes during the 2008 recession, how did the changes in Consumer Price Index during the COVID-19 pandemic effect consumer's buying power of healhty foods, specifically dairy, eggs, fresh fruits, and fresh vegetables?
 
@@ -31,7 +31,6 @@ As defined by the National Bureau of Economic Research, the two largest economic
 ## Analysis and Results:
 Question 1 Visualization
 
-<img width="651" alt="Screenshot 2025-04-28 at 18 41 51" src="https://github.com/user-attachments/assets/08454766-2cda-4f66-bbaf-d92692852fd1" />
 
 
 Question 2 Visualization 
