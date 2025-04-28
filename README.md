@@ -24,6 +24,8 @@ Question 1: How did the Consumer Price Index change for all foods before and aft
 
 Question 2: In comparison to Consumer Price Index changes during the 2008 recession, how did the changes in Consumer Price Index during the COVID-19 pandemic effect consumer's buying power of healhty foods, specifically dairy, eggs, fresh fruits, and fresh vegetables?
 
+As defined by the National Bureau of Economic Research, the two largest economic recessions in the US within the past 20 years are the great recession of 2007 - 2009 and the COVID-19 recession of 2020. In order to realize the effects that these recessions have had on consumer's lives, more specifically, on consumer's ability to buy healthy foods, we want to visualize the effects these recessions have had on Consumer Price Index so we can see the severity of these notable events in US history. Comparing the Great Recession and COVID Recession to each other will provide insight into how consumer's buying power of food has changed over time and can in turn help consumers today prepare for how prices could change in the future.
+
 ## Manipulations To Our Data Set:
 
 ## Analysis and Results
