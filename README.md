@@ -42,8 +42,7 @@ The role of CPI in shaping dietary behavior and health disparities during crises
 How inflation in essential categories (like dairy, fruits, vegetables) might inform nutrition assistance program adjustments, such as SNAP benefits.
 
 ## Manipulations To Our Data Set:
-
-
+We did not need to manipulate the data extensively because the dataset already provided the exact values we needed. The Food Price Outlook dataset included annual Consumer Price Index (CPI) values for all food categories, organized clearly by year. Since the data was already broken down by year and food category, we were able to directly withdraw the relevant values for the periods surrounding the 2007–2009 recession and the COVID-19 pandemic without having to perform complex calculations or adjustments. Minor steps, like filtering specific years, were performed to analyze trends. Overall, the dataset was structured in a way that made it easy to answer the question with minimal additional manipulation.
 
 ## Analysis and Results:
 Question 1 Visualization
