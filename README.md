@@ -45,7 +45,7 @@ How inflation in essential categories (like dairy, fruits, vegetables) might inf
 We did not need to manipulate the data extensively because the dataset already provided the exact values we needed. The Food Price Outlook dataset included annual Consumer Price Index (CPI) values for all food categories, organized clearly by year. Since the data was already broken down by year and food category, we were able to directly withdraw the relevant values for the periods surrounding the 2007–2009 recession and the COVID-19 pandemic without having to perform complex calculations or adjustments. Minor steps, like filtering specific years, were performed to analyze trends. Overall, the dataset was structured in a way that made it easy to answer the question with minimal additional manipulation.
 
 ## Analysis and Results:
-**Question 1 Visualization**
+**Question 1 Visualization and Analysis**
 
 <img width="651" alt="Screenshot 2025-04-28 at 18 43 13" src="https://github.com/user-attachments/assets/9250d220-8b8d-4835-ba09-5a69344dc1c1" />
 
@@ -55,7 +55,7 @@ Now looking at the Great Recession we can see another example of the economic sh
 
 COVID sparked a period of isolation and fear of the public in United States citizens. This likely caused everyone to stockpile on food and other essentials to avoid putting themselves at risk to get the virus. This change in consumption pattern combined with a supply chain disruption caused by the inability of employees to work, would explain the dramatic jump in food prices during the peak of the pandemic. The Recession on the other hand marked a different kind of instability in the U.S. The financial crisis greatly reduced the income of American households and took away their purchasing power. With significantly less money to spend, the demand for food went down and prices were forced to meet the new demand. This decrease in demand combined with no effect on supply, unlike COVID, explains the opposite effect on food prices we see between the two major events.
 
-**Question 2 Visualization **
+**Question 2 Visualization and Analysis**
 
 <img width="642" alt="Screenshot 2025-04-28 at 18 24 16" src="https://github.com/user-attachments/assets/ed520bea-5cdd-4f0c-99ca-e75b388ee5b3" />
 
