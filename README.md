@@ -74,6 +74,7 @@ We did not need to manipulate the data extensively because the dataset already p
 
 <img width="651" alt="Screenshot 2025-04-28 at 18 43 13" src="https://github.com/user-attachments/assets/9250d220-8b8d-4835-ba09-5a69344dc1c1" />
 
+
 Our visualization allows us to see the journey for food prices throughout dramatic economic events in the COVID pandemic and the Great Recession. According to the COVID timeline, the pandemic was declared a national emergency in early 2021 with the eventual peak of the pandemic occurring in January of 2022. This timeline coincides perfectly with the largest rise in food prices in our 2015-2023 visualization. The pandemic then began to decline after early 2022, but we can see that prices never went back to the way they were pre pandemic. 
 
 Now looking at the Great Recession we can see another example of the economic shock having a tremendous effect on prices. The housing crisis bubble burst occurred in late 2007 and the crisis lasted until 2009. In our visualization for the prices during this time, it becomes clear that the Great Recession had an opposite impact on food prices than COVID did. While both events marked hard times for Americans and severe economic instability, when you think about the effects of each event individually the effects make sense. 
@@ -83,6 +84,7 @@ COVID sparked a period of isolation and fear of the public in United States citi
 **Question 2 Visualization and Analysis**
 
 <img width="642" alt="Screenshot 2025-04-28 at 18 24 16" src="https://github.com/user-attachments/assets/ed520bea-5cdd-4f0c-99ca-e75b388ee5b3" />
+
 
 Our visualization displays relatively stable prices for healthy food throughout these economic shock events; however, eggs seem to be the odd product out with extremely volatile price changes relative to those of the other products displayed. Dairy products, fresh fruits, and fresh vegetables all remain constant with little price changes throughout the time period, never coming near a 20% change in either direction. On the other hand, egg price changes are all over the place, even during times unrelated to our major events. 
 
