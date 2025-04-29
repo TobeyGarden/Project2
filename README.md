@@ -1,5 +1,5 @@
 # Project2
-Answering pertinent questions on Consumer Price Index juxtaposed to the two largest economic recessions wihtin the past 20 years with Tableau.
+Answering pertinent questions on Consumer Price Index juxtaposed to the two largest economic recessions within the past 20 years with Tableau.
 
 ## Team Name: 
 21484 Group 8
