@@ -50,10 +50,10 @@ Color encoding (green to red gradient) visually enhances the understanding of ch
 Green = lower percent changes
 Red = higher percent changes
 3. Time-Based Comparison
-First Visual (2003–2012):
+First Visual (2004–2012):
 Examines CPI changes for all foods before, during, and after the 2007–2009 Great Recession.
 Shows a spike in 2008 (recession peak), followed by a significant drop.
-Second Visual (2014–2023):
+Second Visual (2015–2023):
 Looks at CPI changes for all foods before and after the COVID-19 pandemic.
 Shows a sharp increase peaking in 2022, likely reflecting post-pandemic inflation.
 4. Disaggregation by Food Category (Third Visual)
