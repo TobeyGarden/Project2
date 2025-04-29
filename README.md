@@ -19,7 +19,7 @@ The data set we are analyzing is from [https://catalog.data.gov/dataset](https:/
 Our dataset contains 3 fields; the Consumer Price Index for each food item, the year that each Consumer Price Index was record from 1974 - 2023, and the Percent Change between each year. 
 
 ## Our Questions and Their Importance:
-Introduction: As defined by the National Bureau of Economic Research, the two largest economic recessions in the US within the past 20 years are the great recession of 2007 - 2009 and the COVID-19 recession of 2020. In order to realize the effects that these recessions have had on consumer's lives, more specifically, on consumer's ability to buy healthy foods, we want to visualize the effects these recessions have had on Consumer Price Index so we can see the severity of these notable events in recent US history. Comparing the Great Recession and COVID Recession to each other will provide insight into how consumer's buying power of food has changed over time and can in turn help consumers today prepare for how prices could change in the future.
+**Introduction:** As defined by the National Bureau of Economic Research, the two largest economic recessions in the US within the past 20 years are the great recession of 2007 - 2009 and the COVID-19 recession of 2020. In order to realize the effects that these recessions have had on consumer's lives, more specifically, on consumer's ability to buy healthy foods, we want to visualize the effects these recessions have had on Consumer Price Index so we can see the severity of these notable events in recent US history. Comparing the Great Recession and COVID Recession to each other will provide insight into how consumer's buying power of food has changed over time and can in turn help consumers today prepare for how prices could change in the future.
 
 **Question 1**: How did the Consumer Price Index change for all foods before and after the 2007 - 2009 US recession compared to the Consumer Price Index before and after the COVID pandemic of 2020?
 
@@ -42,25 +42,29 @@ The role of CPI in shaping dietary behavior and health disparities during crises
 How inflation in essential categories (like dairy, fruits, vegetables) might inform nutrition assistance program adjustments, such as SNAP benefits.
 
 ## Manipulations To Our Data Set:
-1. Data Filtering
+**1. Data Filtering**
 Each sheet filters data by Consumer Price Index and Year, which focuses the analysis only on relevant CPI entries and their yearly percent changes.
-2. Line Graphs with Color Encoding
+
+**2. Line Graphs with Color Encoding**
 Line charts show trends in the average percent change in CPI over time.
 Color encoding (green to red gradient) visually enhances the understanding of changes:
 Green = lower percent changes
 Red = higher percent changes
-3. Time-Based Comparison
+
+**3. Time-Based Comparison**
 First Visual (2004–2012):
 Examines CPI changes for all foods before, during, and after the 2007–2009 Great Recession.
 Shows a spike in 2008 (recession peak), followed by a significant drop.
 Second Visual (2015–2023):
 Looks at CPI changes for all foods before and after the COVID-19 pandemic.
 Shows a sharp increase peaking in 2022, likely reflecting post-pandemic inflation.
-4. Disaggregation by Food Category (Third Visual)
+
+**4. Disaggregation by Food Category (Third Visual)**
 Breaks down CPI percent change by food categories: Dairy, Eggs, Fresh Fruits, Fresh Vegetables.
 Each row represents a different food category, helping identify which items had the highest volatility (e.g., eggs spiked in 2007 and dropped sharply in 2009).
 Again, color is used to highlight intensity of change.
-5. Aggregation
+
+**5. Aggregation**
 The graphs display average percent change, which implies that Tableau has aggregated raw CPI data by category and year before plotting.
 
 We did not need to manipulate the data extensively because the dataset already provided the exact values we needed. The Food Price Outlook dataset included annual Consumer Price Index (CPI) values for all food categories, organized clearly by year. Since the data was already broken down by year and food category, we were able to directly withdraw the relevant values for the periods surrounding the 2007–2009 recession and the COVID-19 pandemic without having to perform complex calculations or adjustments. Minor steps, like filtering specific years, were performed to analyze trends. Overall, the dataset was structured in a way that made it easy to answer the question with minimal additional manipulation.
